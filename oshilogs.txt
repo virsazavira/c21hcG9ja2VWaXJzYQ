@@ -12,66 +12,62 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virsa =====
-[1]Virsa       |08:07:14 | 30-10-2026| login OK @zvirsa | score=2410 rank=3293
-[1]Virsa       |08:07:14 | 30-10-2026| serverTime=2026-10-30T08:07:14.000Z local=2026-10-30T08:07:14.943Z
+[1]Virsa       |08:00:53 | 31-10-2026| login OK @zvirsa | score=2490 rank=3193
+[1]Virsa       |08:00:53 | 31-10-2026| serverTime=2026-10-31T08:00:53.000Z local=2026-10-31T08:00:53.260Z
 --> [1]Virsa menjalankan: Claim Daily
-[1]Virsa       |08:07:16 | 30-10-2026| daily: OK +10 poin score=2420
---> [1]Virsa menjalankan: Auto All Tasks (7 pending)
-[1]Virsa       |08:07:17 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/zvirsa/status/2116079013379754898
-[1]Virsa       |08:07:17 | 30-10-2026| delay 10s...
-[1]Virsa       |08:07:30 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/zvirsa/status/2116079247195006631
-[1]Virsa       |08:07:30 | 30-10-2026| delay 10s...
-[1]Virsa       |08:07:42 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/zvirsa/status/2116079010387911557
-[1]Virsa       |08:07:42 | 30-10-2026| delay 10s...
-[1]Virsa       |08:07:54 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/zvirsa/status/2116079328891184430
-[1]Virsa       |08:07:54 | 30-10-2026| delay 10s...
-[1]Virsa       |08:08:06 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/zvirsa/status/2116079086158608146
-[1]Virsa       |08:08:06 | 30-10-2026| delay 10s...
-[1]Virsa       |08:08:18 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/zvirsa/status/2116079169272212564
-[1]Virsa       |08:08:18 | 30-10-2026| delay 10s...
-[1]Virsa       |08:08:30 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
-[1]Virsa       |08:08:30 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virsa       |08:08:32 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/zvirsa/status/2116079336712168696
+[1]Virsa       |08:00:54 | 31-10-2026| daily: OK +10 poin score=2500
+--> [1]Virsa menjalankan: Auto All Tasks (5 pending)
+[1]Virsa       |08:00:56 | 31-10-2026| [1/5] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/zvirsa/status/2116439669301553002
+[1]Virsa       |08:00:56 | 31-10-2026| delay 10s...
+[1]Virsa       |08:01:09 | 31-10-2026| [2/5] 2a71892a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/zvirsa/status/2116439987645095971
+[1]Virsa       |08:01:09 | 31-10-2026| delay 10s...
+[1]Virsa       |08:01:21 | 31-10-2026| [3/5] caaa7a93 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/zvirsa/status/2116439873946052741
+[1]Virsa       |08:01:21 | 31-10-2026| delay 10s...
+[1]Virsa       |08:01:33 | 31-10-2026| [4/5] d4f05f1e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/zvirsa/status/2116440012332334717
+[1]Virsa       |08:01:33 | 31-10-2026| delay 10s...
+[1]Virsa       |08:01:45 | 31-10-2026| [5/5] bbf7f979 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/zvirsa/status/2116440049624100517
+[1]Virsa       |08:01:45 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virsa       |08:01:47 | 31-10-2026| [1/1] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116336474631348 | proof=https://x.com/zvirsa/status/2116439998778524684
 --> [1]Virsa menjalankan: Watch Anime
-[1]Virsa       |08:08:32 | 30-10-2026| watch: semua video sudah completed
+[1]Virsa       |08:01:48 | 31-10-2026| watch: semua video sudah completed
 --> [1]Virsa menjalankan: Read Article
-[1]Virsa       |08:08:34 | 30-10-2026| news: 30/30 artikel selesai dibaca
-[1]Virsa       |08:08:35 | 30-10-2026| mint eligibility: {"userId":"1772623179913342976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zvirsa","status":"submitted","revision":"0cd5f023-d0a5-420e-9dd9-b54584f731eb","
-[1]Virsa       |08:08:35 | 30-10-2026| news: semua artikel sudah dibaca
+[1]Virsa       |08:01:50 | 31-10-2026| news: 30/32 artikel selesai dibaca
+[1]Virsa       |08:01:51 | 31-10-2026| mint eligibility: {"userId":"1772623179913342976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zvirsa","status":"submitted","revision":"0cd5f023-d0a5-420e-9dd9-b54584f731eb","
+[1]Virsa       |08:01:57 | 31-10-2026| news [1/2] smart-pocket-monthly-2026-10: OK completed=31
+[1]Virsa       |08:02:07 | 31-10-2026| news [2/2] oshi-labs-monthly-2026-10: OK completed=32
 --> [1]Virsa menjalankan: Quiz Anime
 --> [1]Virsa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virsa       |08:08:37 | 30-10-2026| music: kedua misi sudah tercapai, stop
-[1]Virsa       |08:08:38 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Virsa       |08:08:38 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virsa       |08:08:38 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virsa       |08:02:11 | 31-10-2026| music: kedua misi sudah tercapai, stop
+[1]Virsa       |08:02:12 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Virsa       |08:02:12 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virsa       |08:02:12 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virsa menjalankan: Claim Missions
-[1]Virsa       |08:08:38 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Virsa       |08:08:38 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virsa       |08:08:38 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virsa       |08:02:12 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Virsa       |08:02:12 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virsa       |08:02:12 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virsa menjalankan: Check Eligibility
 
 --- eligibility [1]Virsa ---
-  @zvirsa | score=2410 rank=3293
-  tasks    [#######-------------] 4/11
+  @zvirsa | score=2490 rank=3193
+  tasks    [############--------] 7/12
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [##################--] 11/12
-  artikel  [####################] 30/30
+  artikel  [####################] 32/32
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virsa menjalankan: Read Manga
-[1]Virsa       |08:08:42 | 30-10-2026| manga: 0/13 chapter belum completed
+[1]Virsa       |08:02:16 | 31-10-2026| manga: 0/13 chapter belum completed
 --> [1]Virsa menjalankan: Get Gift
-[1]Virsa       |08:08:42 | 30-10-2026| gift: 1/6 belum diterima
-[1]Virsa       |08:08:44 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
+[1]Virsa       |08:02:17 | 31-10-2026| gift: 0/6 belum diterima
 --> [1]Virsa menjalankan: Setup Profile
-[1]Virsa       |08:08:46 | 30-10-2026| profile: bio="https://x.com/zvirsa" fav=oshi rewardAt=1791707004
-[1]Virsa       |08:08:46 | 30-10-2026| profile: bonus sudah diklaim, skip
+[1]Virsa       |08:02:17 | 31-10-2026| profile: bio="https://x.com/zvirsa" fav=oshi rewardAt=1791707004
+[1]Virsa       |08:02:17 | 31-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Virsa menjalankan: Bind Wallet
-[1]Virsa       |08:08:47 | 30-10-2026| wallet: sudah terikat AdoZb2jz2P... (solana)
+[1]Virsa       |08:02:18 | 31-10-2026| wallet: sudah terikat AdoZb2jz2P... (solana)
 
 == RINGKASAN ==
-- Virsa: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
+- Virsa: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 2 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
