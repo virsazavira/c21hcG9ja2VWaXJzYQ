@@ -12,35 +12,35 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virsa =====
-[1]Virsa       |10:35:10 | 23-11-2026| login OK @zvirsa | score=3410 rank=2295
-[1]Virsa       |10:35:10 | 23-11-2026| serverTime=2026-11-23T10:35:10.000Z local=2026-11-23T10:35:10.289Z
+[1]Virsa       |12:18:03 | 24-11-2026| login OK @zvirsa | score=3430 rank=2283
+[1]Virsa       |12:18:03 | 24-11-2026| serverTime=2026-11-24T12:18:02.000Z local=2026-11-24T12:18:03.485Z
 --> [1]Virsa menjalankan: Claim Daily
-[1]Virsa       |10:35:11 | 23-11-2026| daily: OK +10 poin score=3420
+[1]Virsa       |12:18:05 | 24-11-2026| daily: OK +10 poin score=3440
 --> [1]Virsa menjalankan: Auto All Tasks (1 pending)
-[1]Virsa       |10:35:13 | 23-11-2026| [1/1] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/zvirsa/status/2124813665034139002
-[1]Virsa       |10:35:13 | 23-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virsa       |10:35:14 | 23-11-2026| [1/1] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124732376836411 | proof=https://x.com/zvirsa/status/2124813697226896870
+[1]Virsa       |12:18:08 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/zvirsa/status/2125201954579202906
+[1]Virsa       |12:18:08 | 24-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virsa       |12:18:09 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124855547879113 | proof=https://x.com/zvirsa/status/2125201927620611809
 --> [1]Virsa menjalankan: Watch Anime
-[1]Virsa       |10:35:15 | 23-11-2026| watch: semua video sudah completed
+[1]Virsa       |12:18:10 | 24-11-2026| watch: semua video sudah completed
 --> [1]Virsa menjalankan: Read Article
-[1]Virsa       |10:35:16 | 23-11-2026| news: 34/34 artikel selesai dibaca
-[1]Virsa       |10:35:16 | 23-11-2026| mint eligibility: {"userId":"1772623179913342976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zvirsa","status":"submitted","revision":"0cd5f023-d0a5-420e-9dd9-b54584f731eb","
-[1]Virsa       |10:35:16 | 23-11-2026| news: semua artikel sudah dibaca
+[1]Virsa       |12:18:11 | 24-11-2026| news: 34/34 artikel selesai dibaca
+[1]Virsa       |12:18:12 | 24-11-2026| mint eligibility: {"userId":"1772623179913342976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zvirsa","status":"submitted","revision":"0cd5f023-d0a5-420e-9dd9-b54584f731eb","
+[1]Virsa       |12:18:12 | 24-11-2026| news: semua artikel sudah dibaca
 --> [1]Virsa menjalankan: Quiz Anime
 --> [1]Virsa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virsa       |10:35:17 | 23-11-2026| music: kedua misi sudah tercapai, stop
-[1]Virsa       |10:35:18 | 23-11-2026| mission music-listens-10: sudah diklaim
-[1]Virsa       |10:35:18 | 23-11-2026| mission music-minutes-30: sudah diklaim
-[1]Virsa       |10:35:18 | 23-11-2026| mission anime-completed-3: sudah diklaim
+[1]Virsa       |12:18:14 | 24-11-2026| music: kedua misi sudah tercapai, stop
+[1]Virsa       |12:18:14 | 24-11-2026| mission music-listens-10: sudah diklaim
+[1]Virsa       |12:18:14 | 24-11-2026| mission music-minutes-30: sudah diklaim
+[1]Virsa       |12:18:14 | 24-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virsa menjalankan: Claim Missions
-[1]Virsa       |10:35:18 | 23-11-2026| mission music-listens-10: sudah diklaim
-[1]Virsa       |10:35:18 | 23-11-2026| mission music-minutes-30: sudah diklaim
-[1]Virsa       |10:35:18 | 23-11-2026| mission anime-completed-3: sudah diklaim
+[1]Virsa       |12:18:14 | 24-11-2026| mission music-listens-10: sudah diklaim
+[1]Virsa       |12:18:14 | 24-11-2026| mission music-minutes-30: sudah diklaim
+[1]Virsa       |12:18:14 | 24-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virsa menjalankan: Check Eligibility
 
 --- eligibility [1]Virsa ---
-  @zvirsa | score=3410 rank=2295
-  tasks    [##################--] 7/8
+  @zvirsa | score=3430 rank=2283
+  tasks    [#################---] 5/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +51,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virsa menjalankan: Read Manga
-[1]Virsa       |10:35:20 | 23-11-2026| manga: 0/13 chapter belum completed
+[1]Virsa       |12:18:17 | 24-11-2026| manga: 0/13 chapter belum completed
 --> [1]Virsa menjalankan: Get Gift
-[1]Virsa       |10:35:22 | 23-11-2026| gift: 3/12 belum diterima
-[1]Virsa       |10:35:22 | 23-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Virsa       |10:35:25 | 23-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Virsa       |10:35:28 | 23-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Virsa       |12:18:19 | 24-11-2026| gift: 3/12 belum diterima
+[1]Virsa       |12:18:20 | 24-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Virsa       |12:18:23 | 24-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Virsa       |12:18:26 | 24-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Virsa menjalankan: Setup Profile
-[1]Virsa       |10:35:30 | 23-11-2026| profile: bio="https://x.com/zvirsa" fav=oshi rewardAt=1791707004
-[1]Virsa       |10:35:30 | 23-11-2026| profile: bonus sudah diklaim, skip
+[1]Virsa       |12:18:29 | 24-11-2026| profile: bio="https://x.com/zvirsa" fav=oshi rewardAt=1791707004
+[1]Virsa       |12:18:29 | 24-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Virsa menjalankan: Bind Wallet
-[1]Virsa       |10:35:31 | 23-11-2026| wallet: sudah terikat AdoZb2jz2P... (solana)
+[1]Virsa       |12:18:29 | 24-11-2026| wallet: sudah terikat AdoZb2jz2P... (solana)
 
 == RINGKASAN ==
 - Virsa: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
